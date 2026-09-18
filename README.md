@@ -5,3 +5,4 @@
 | ------------- | ------------- |
 | Juan Contreras | Team Member |
 | Luc Sanders | Team Member |
+| Rafael Sanchez | Team Member |
