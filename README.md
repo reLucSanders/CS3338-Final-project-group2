@@ -4,4 +4,4 @@
 | Name | Role |
 | ------------- | ------------- |
 | Juan Contreras | Team Member |
-| 
+| Luc Sanders | Team Member |
