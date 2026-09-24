@@ -1,0 +1,7 @@
+*.log
+user-manual/
+*-*.txt
+styles.css
+SRS/!SRS_Final.docx
+SDD/!SDD_Final.docx
+**/README*
